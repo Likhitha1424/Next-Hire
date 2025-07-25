@@ -2,7 +2,6 @@
 
 NextHire is a modern full-stack job portal built with **React.js**, **Tailwind CSS**, **Supabase**, **Clerk Authentication**, and **Shadcn UI**. It allows users to post, search, and apply for jobs with a seamless, responsive, and intuitive interface.
 
-![NextHire Banner](https://via.placeholder.com/1200x400.png?text=NextHire+Job+Portal)
 
 ---
 
@@ -30,14 +29,6 @@ NextHire is a modern full-stack job portal built with **React.js**, **Tailwind C
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of Home Page, Job Listing, Application Page, and Dashboard here.  
-> Example:
-
-![Job Listings](https://via.placeholder.com/800x400.png?text=Job+Listings+Page)
-
----
 
 ## 📦 Installation & Setup
 
